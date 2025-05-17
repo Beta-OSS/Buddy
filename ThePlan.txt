@@ -1,0 +1,9 @@
+Buddy would be a program that when you go to download something would download it in a virtualized environment, run tests for malware or malicious code or features, provide feedback and if deemed safe transfer the download to the download location.
+
+Potential for AI and machine learning 
+
+Learn assembly for low level analysis 
+
+Probably also need to develop an operating system designed specifically for this purpose to run virtually and optimize the process 
+
+Potential solution for downloading directly into the vm: make buddy inherently a virus itself, changing the fundamentals of the host os to allow downloads to go directly into a vm 
